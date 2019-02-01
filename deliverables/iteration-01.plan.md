@@ -3,27 +3,34 @@
 ## Process
 
 #### Roles & responsibilities
-
-Describe the different roles on the team and the responsibilities associated with each role. 
- * Roles should reflect the structure of your team and be appropriate for your project. Not necessarily one role to one team member.
-
-List each team member and:
- * A description of their role(s) and responsibilities including the components they'll work on and non-software related work
- * 3 technical strengths and weaknesses each (e.g. languages, frameworks, libraries, development methodologies, etc.)
+##### Our Team Member Includes : Sean,Eva,Noke,carben,Cris,Zoe
+#####  Product management/Marketing: Zoe.
+* organize and arrange time, tracking progress of our product.  
+##### Software Engineer: Eva, Sean, Noke, Carben, Chris  
+* Design/Coding and deploy our product.
+##### Three tech advantages:
+* All members are computer science major and familiar with Java/C etc.
+* All members good with programming.
+* All members can learn new languages very fast.
+##### Three tech disadvantages:
+* New to App design 
+* Can not implement complex component 
+* 
 
 #### Team Rules
-
 Describe your team's working culture.
 
 Communications:
- * What is the expected frequency? What methods/channels are appropriate? 
- * If you have a partner project, what is your process (in detail) for communicating with your partner?
+ * Everyday through slack to update our work with our team members.
+ * We will be using slack and email to communicate with our partner.
  
 Meetings:
- * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
+ * We set up meeting base on our class schedule , and every one is mandatory to attend the meeting, if no we set up a phone call with him.
  
 Conflict Resolution:
- * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Any other scenarios you can think of?
+ * Indecision: We vote for decision and go for the one with majority votes.
+ * Non-responsive team members: Try to set up a face-to-face meeting with them, and try to find out/fix any problem with them.
+ * Not-doing-work:  Friendly alarm him, and discuss the potential issues.
 
 
 #### Events
