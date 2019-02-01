@@ -22,6 +22,8 @@ Three tech disadvantages:
   * Can not implement complex component 
   * Not familiar with libraries.
 
+<br/>
+
 #### Team Rules
 Communications:
  * Everyday through slack to update our work with our team members.
