@@ -1,4 +1,4 @@
-# YOUR PRODUCT/TEAM NAME
+# LGBT Youth line
 
  > _Note:_ This document is meant to evolve throughout the planning phase of your project.    
  > That is, it makes sense for you commit regularly to this file while working on the project (especially edits/additions/deletions to the _Highlights_ section).
@@ -7,27 +7,12 @@
 #### Q1: What are you planning to build?
 
 YOUR ANSWER GOES HERE ...
-
- * Short (1 - 2 min' read)
- * Start with a single sentence, high-level description of the product.
- * Be clear - Describe the problem you are solving in simple terms.
- * Be concrete. For example:
-    * What are you planning to build? Is it a website, mobile app,
-   browser extension, command-line app, etc.?      
-    * When describing the problem/need, give concrete examples of common use cases.
- * Focus on *what* your product does, and avoid discussing *how* you're going to implement it.      
-   For example: This is not the time or the place to talk about which programming language and/or framework you are planning to use.
- * **Feel free (and very much encouraged) to include useful diagrams, mock-ups and/or links**.
-
+ 
+ We are trying to build an mobile APP for LGBT youth line, so user can access their resources/events easily through phone.
 
 #### Q2: Who are your target users?
-
-YOUR ANSWER GOES HERE ...
-
- * Short (1 - 2 min' read max)
- * Be specific (e.g. a 'a third-year university student studying Computer Science' and not 'a student')
- * Feel free (but not obligated) to use personas.         
-   You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).
+   
+LGTB youth
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
 
@@ -41,6 +26,9 @@ YOUR ANSWER GOES HERE ...
     * Provide users with more accurate and/or informative data (what kind of data? Why is it useful to them?)
     * Does this application exist in another form? If so, how does your differ and provide value to the users?
 
+Our product provides direct access to events/resources, which are carefully selected by LGBT. 
+
+
 #### Q4: How will you build it?
 
 YOUR ANSWER GOES HERE ...
@@ -51,8 +39,9 @@ YOUR ANSWER GOES HERE ...
  * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here. 
  * Will you be using third party applications or APIs? If so, what are they?
  * What is your testing strategy?
-
 ----
+Techonology stack: Android studio/Java/MongoDB
+
 
 ### Highlights
 
