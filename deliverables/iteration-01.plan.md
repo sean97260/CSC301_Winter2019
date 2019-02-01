@@ -1,25 +1,28 @@
-# YOUR PRODUCT/TEAM NAME
+# LGBT Youth Line
 
 ## Process
 
 #### Roles & responsibilities
-##### Our Team Member Includes : Sean,Eva,Noke,carben,Cris,Zoe
-#####  Product management/Marketing: Zoe.
-* organize and arrange time, tracking progress of our product.  
-##### Software Engineer: Eva, Sean, Noke, Carben, Chris  
-* Design/Coding and deploy our product.
-##### Three tech advantages:
-* All members are computer science major and familiar with Java/C etc.
-* All members good with programming.
-* All members can learn new languages very fast.
-##### Three tech disadvantages:
-* New to App design 
-* Can not implement complex component 
-* 
+
+##### Team Member: Sean,Eva,Noke,carben,Cris,Zoe
+
+Product management/Marketing: Zoe.
+  * Jobs: Organize and arrange time, tracking progress of our product.  
+  
+Software Engineer: Eva, Sean, Noke, Carben, Chris  
+  * Jobs: Design/Coding and deploy our product.
+
+Three tech advantages:
+  * All members are computer science major and familiar with Java/C etc.
+  * All members good with programming.
+  * All members can learn new languages very fast.
+
+Three tech disadvantages:
+  * New to App design 
+  * Can not implement complex component 
+  * Not familiar with libraries.
 
 #### Team Rules
-Describe your team's working culture.
-
 Communications:
  * Everyday through slack to update our work with our team members.
  * We will be using slack and email to communicate with our partner.
