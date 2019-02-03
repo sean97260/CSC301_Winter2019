@@ -71,18 +71,37 @@ __Conflict Resolution__:
 
 Describe meetings (and other events) you are planning to have:
  * When and where? Recurring or ad hoc? In-person or online?
+ 
+   Every friday in campus in person. Meeting is recurring.
+ 
  * What's the purpose of each meeting?
+ 
+   To update latest work/progress on our project. 
+ 
  * Other events could be coding sessions, code reviews, quick weekly sync meeting online, etc.
+ 
+   On each meeting all group members are expected to report our own progress to other group members, and we will distribute the work for the next week. We will not doing any coding in meeting, all coding detail will be discussed on slack.
+ 
 
 #### Artifacts
 
-List/describe the artifacts you will produce in order to organize your team.       
+List/describe the artifacts you will produce in order to organize your team.   
+
+   After the meeting, we will summarize the main points, and also include a To-Do lists. We will also have a schedule which shows each team members’ available time.
 
  * Artifacts can be To-Do lists, Task boards, schedule(s), etc.
  * We want to understand:
    * How do you keep track of what needs to get done?
+   
+      We will set up weekly goal and deadline for each small task.Then our product management will keep track of every step.
+   
    * How do you prioritize tasks?
+   
+      The feature required by our partner will be the very first one to development and test. Other feature which only improve user experiment will get lower priority.
+
    * How do tasks get assigned to team members?
+   
+      We assigned each tasks base on their strength. (whether good at UI/Front-end / Back-end )
 
 
 ## Product
@@ -90,14 +109,31 @@ List/describe the artifacts you will produce in order to organize your team.
 #### Goals and tasks
 
  * Describe your goals for this iteration and the tasks that you will have to complete in order to achieve these goals.
+ 
+   Implement simply UI and make sures the functionality of our product.
+
  * Rank the items from most to least important.
+   
+   Functionality > UI
+   
  * Feel free (but not obligated) to specify some/all tasks as user stories.
+ 
+   Jin is a volunteer who is forcing in helping LGBT group people to find their identity. He usually will attend activities that group those people together. The app will remind him the activities start time and location. He know youthline.ca is a website provide lot of resources on helping those people. In activities, he want to show those resources with the people in the activities, but he didn’t carry his laptop with him due to it’s too heavy. With our app, Jin can easily pull out the resources he bookmarked and show it to people around him.
+
 
 #### Artifacts
 
 List/describe the artifacts you will produce in order to present your project idea.
 
  * Artifacts can be text, code, images, videos, interactive mock-ups and/or any other useful artifact you can think of.
+ 
+   We will do a combination of  mock-ups and images (Low-Fi prototype) 
+
  * Make sure to explain the purpose of each artifact (i.e. Why is it on your to-do list? Why is it useful for your team?)
+ 
+   * Mock-ups (Low-Fi prototype) : This will help team members to understand the structures of whole project.
+
+   * images : Images is always good at any cases, this will help us to visually understand what this project can do to its user. (affects )
+
  * Be concise, yet precise.         
    For example: "Build the website" is not precise at all, but "Build a static home page and upload it somewhere, so that it is publicly accessible" is much clearer.
