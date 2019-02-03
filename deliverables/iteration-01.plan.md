@@ -54,6 +54,18 @@ Meetings:
 Conflict Resolution:
  * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Any other scenarios you can think of?
 
+__Communications__:
+ * We will meet on a weekly basis after class and tut.
+ * Everyday through slack to update our work with our team members.
+ * We will be using slack and email to send weekly update to our partner. 
+ 
+__Meetings__:
+ * We set up meeting base on our class schedule, and every one is mandatory to attend the meeting. Otherwise, we will set up a phone call with him.
+ 
+__Conflict Resolution__:
+ * Indecision: We vote for decision and go for the one with majority votes.
+ * Non-responsive team members: Try to set up a face-to-face meeting with them, and try to find out/fix any problem with them.
+ * Not-doing-work: Friendly alarm him, and discuss the potential issues.
 
 #### Events
 
