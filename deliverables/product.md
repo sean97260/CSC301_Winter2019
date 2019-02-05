@@ -6,51 +6,37 @@
 
 #### Q1: What are you planning to build?
 
-YOUR ANSWER GOES HERE ...
+We are planning to build a MOBILE APP for LGBT Youth Line.
 
- * Short (1 - 2 min' read)
- * Start with a single sentence, high-level description of the product.
- * Be clear - Describe the problem you are solving in simple terms.
- * Be concrete. For example:
-    * What are you planning to build? Is it a website, mobile app,
-   browser extension, command-line app, etc.?      
-    * When describing the problem/need, give concrete examples of common use cases.
- * Focus on *what* your product does, and avoid discussing *how* you're going to implement it.      
-   For example: This is not the time or the place to talk about which programming language and/or framework you are planning to use.
- * **Feel free (and very much encouraged) to include useful diagrams, mock-ups and/or links**.
-
+This product can be separated into three sub-part. 
+First is the user-end Mobile app, which will allow user to explore the LGBT event which going to be held need him and allow user to access and bookmark plenty of resources collected by youthline.ca through their phone by just one click. 
+Second, this app will be powered by a server separate from the current website (youthline.ca). The app will use a whole new customized API that to achieve various function and expansibility.
+Third is the administration end which has nice user friendly graph interface that allow the website manager who doesn’t know much about software development easily manage resources and event in the app.
 
 #### Q2: Who are your target users?
 
+Our target users will be LGBT users. More specifically,  We are targeting anyone who is two-spirit, lesbian, gay, transgender and bisexual from age under 29 in Ontario.Which means it could be people in high school or in work, and they does not feel confidence for their identity or couldn't find sense of belonging.
 YOUR ANSWER GOES HERE ...
-
- * Short (1 - 2 min' read max)
- * Be specific (e.g. a 'a third-year university student studying Computer Science' and not 'a student')
- * Feel free (but not obligated) to use personas.         
-   You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
 
-YOUR ANSWER GOES HERE ...
-
- * Short (1 - 2 min' read max)
- * We want you to "connect the dots" for us - Why does your product (as described in your answer to Q1) fits the needs of your users (as described in your answer to Q2)?
- * Explain the benefits of your product explicitly & clearly. For example:
-    * Save users time (how much?)
-    * Allow users to discover new information (which information? And, why couldn't they discover it before?)
-    * Provide users with more accurate and/or informative data (what kind of data? Why is it useful to them?)
-    * Does this application exist in another form? If so, how does your differ and provide value to the users?
+Currently, users are using website to solve their problems. However, website is not user friendly. Users will use our app because our app list all helpful resources clearly, and user can find what they need  immediately. It save user’s time to find all those resources. In current website, user may have difficult to find resources that they need. We have event page so user can discover new coming up events in the future. In current website, they can not arrange event order, user may have hard time to find event that is the most important. 
+When they meeting in person, it is not convenient for they to use mobile phone to view the website to get some resources.
 
 #### Q4: How will you build it?
 
-YOUR ANSWER GOES HERE ...
+Languages : Swift/C/Object-C
+Frameworks: Xcode - iOS
+Database: MongoDB
 
- * Short (1-2 min' read max)
- * What is the technology stack? Specify any and all languages, frameworks, libraries, PaaS products or tools. 
- * How will you deploy the application?
- * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here. 
- * Will you be using third party applications or APIs? If so, what are they?
- * What is your testing strategy?
+Deployment: 
+For early test purpose, we will use a vps(digitalocean) as our back-end server, then we will use apple developer certificate to deploy software on our own phone to test feature and stability.
+For final deployment, we will use a slightly better vps as our server (which can be upgrade easily) and we will release our app to Apple App Store as a free app.
+
+Architecture:
+Front-End(UI) -> Buttons (Functionality)->Back-End(Database)
+
+We will be using google map API.
 
 ----
 
