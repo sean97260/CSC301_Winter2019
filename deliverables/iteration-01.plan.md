@@ -32,12 +32,16 @@ __team members’ roles__:
 
 __3 technical strengths and weaknesses__:
 
-Members | Advantage | Disadvantage
---- | --- | ---
-Baijiang Yuan | 1. Familiar with Java/C etc. </br> 2. Good at programming and database. MongoDB etc. </br> 3. learning new languages very fast. </br> | 1. New to App design </br> 2. Can not implement complex component </br> 3. Not familiar with libraries. </br>
-Huadong Xing | 1. Familiar with Java and C Dev. </br> 2. Have experience in CSC309 </br> 3. Have insign in User experience </br> | 1. Hate website Dev. </br> 2. Have no experience in UI Dev. </br> 3. </br>
-Ran Wei | 1. Familiar with UI design and C </br> 2. Have experience in CSC309 </br> 3. Good at learning new languages </br> | 1. No experience in app design </br> 2. Not familiar with libraries </br> 3. </br>
-Yuting Shao | 1. Familiar with Java, C, etc. </br> 2. Good at frameworks design </br> 3. Good at programming </br> | 1. New to app design </br> 2. Not familiar with UI design </br> 3. Not familiar with libraries <br>
+Members | Division| Advantage | Disadvantage
+--- | --- | --- | ---
+Yecheng Song | 1. Product Manager and Marketing manager </br> 2. Front-end Engineer </br> | 1. Experience in developing apps and websites </br> 2. Familiar with C#, Python, C and JavaScript </br> 3. Familiar with team work and cooperation </br> | 1. Bad at time management </br> 2. Always struggling at making decisions -> wasting time </br> 3. Sometimes writes inefficient codes/hardcoding </br>
+Baijiang Yuan | 1. Back-end Engineer </br> | 1. Familiar with Java/C etc. </br> 2. Good at programming and database. MongoDB etc. </br> 3. learning new languages very fast. </br> | 1. New to App design </br> 2. Can not implement complex component </br> 3. Not familiar with libraries. </br>
+Yuting Shao | 1. Product Manager and Marketing manager </br> 2. Front-end Engineer </br> | 1. Familiar with Java, C, etc. </br> 2. Good at frameworks design </br> 3. Good at programming </br> | 1. New to app design </br> 2. Not familiar with UI design </br> 3. Not familiar with libraries <br>
+Huadong Xing | 1. Back-end Engineer </br> | 1. Familiar with Java and C Dev. </br> 2. Have experience in CSC309 </br> 3. Have insign in User experience </br> | 1. Hate website development </br> 2. No experience in UI development </br> 3. New to app design </br>
+Ran Wei | 1. Back-end Engineer </br> | 1. Familiar with UI design and C </br> 2. Have experience in CSC309 </br> 3. Good at learning new languages </br> | 1. No experience in app design </br> 2. Not familiar with libraries </br> 3. Do not like coding with Java </br>
+Shiqi Lin | 1. Front-end Engineer </br> | 1. Familiar with Python and C </br> 2. Decent overall programming skills </br> 3. Good web-building skills from CSC309 </br> | 1. New to App design </br> 2. Not familiar with libraries </br> 3. Hard to explain ideas clearly and intuitively
+
+
 
 
 #### Team Rules
