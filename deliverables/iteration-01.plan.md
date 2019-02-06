@@ -8,6 +8,10 @@
 * Product Manager: checking progress of other divisions, organizing meeting and discussion time both inside and outside of the team, * providing latest updates between divisions.
 * Marketing manager: -
 
+#### Team Member: 
+Yecheng Song, Shiqi Lin, Baijiang Yuan, Huadong Xing, Ran Wei, Yuting Shao
+
+
 #### Team assignments:
 Product Manager and Marketing manager: 
 Yecheng Song, Yuting Shao
@@ -21,10 +25,18 @@ Software Engineer:
 
 
 ### Part 2: Team Rules
-#### Team communication:
 
+
+
+#### Team culture:
+Our team’s culture is data-driven, every group member can propose a different solution which supported by a reasonable explanation. Every ideas should have proper reasoning. More importantly, our working environment is friendly and open-minded for any possible solution. We believe that effective communication is the key to build a outstanding team.
+
+#### Team communication:
 Channels of communication: WeChat (former channel, now used for casual talks), Slack (currently using for any update in the team)
-Our team communication could be done in two ways, via online chatting apps or having a group meeting. All of our team members keep a close contact with each other every day using online chatting, in order to keep every member updated by the latest news and arrangements. To cooperate with our partner, we use slack and email to keep them updated. Email will be sent on a weekly basis, while other communications will be on Slack. If we cannot reach the partners by slack, we will try to call them or email them. Additionally, considering online chatting could be very inefficient when long discussion is needed for making essential decisions, we keep having a group meeting on weekly basis. 
+
+Our team communication could be done in two ways, via online chatting apps or having a group meeting. All of our team members keep a close contact with each other every day using online chatting, in order to keep every member updated by the latest news and arrangements.
+
+To cooperate with our partner, we use slack and email to keep them updated. Email will be sent on a weekly basis, while other communications will be on Slack. If we cannot reach the partners by slack, we will try to call them or email them. Additionally, considering online chatting could be very inefficient when long discussion is needed for making essential decisions, we keep having a group meeting on weekly basis. 
 
 #### Team meeting:
 
@@ -41,6 +53,7 @@ The same mechanics works for our meeting with the partner. Based on our schedule
 
 ### Part 3: Events
 As it has been mentioned before, we’re having pre-arranged meetings in person on a weekly basis, to discuss about the latest updates of the course, share ideas within the team, check everyone’s progress and give out new tasks. The meeting usually takes place in Bahen Center, 40 St. George Street. In our next meeting after the submission of deliverable 1, we’re planning to have a meeting about the functionalities and product prototype.
+
 Also, we do have online meetings via either voice chatting or texting in a group. This could happen at any time of a day and solves little issues within the team. 
 
 ### Part 4: Artifacts
