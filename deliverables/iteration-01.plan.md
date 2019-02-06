@@ -65,7 +65,7 @@ As it has been mentioned before, we’re having pre-arranged meetings in person 
 Also, we do have online meetings via either voice chatting or texting in a group. This could happen at any time of a day and solves little issues within the team. 
 
 ### Part 4: Artifacts
-* Artifacts can be To-Do lists, Task boards, schedule(s), etc.
+Artifacts can be To-Do lists, Task boards, schedule(s), etc.
 * We want to understand:
    * How do you keep track of what needs to get done?
    * How do you prioritize tasks?
